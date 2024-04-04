@@ -18,3 +18,17 @@ Merge Sort
 Selection Sort
 Insertion Sort
 Heap Sort
+
+# Clone the repository to your local machine:
+
+git clone https://github.com/yourusername/sorting-visualizer.git
+Navigate to the project directory:
+
+cd sorting-visualizer
+Open index.html in your web browser.
+
+Select a sorting algorithm from the dropdown menu.
+
+Adjust the speed and array size using the sliders.
+
+Click the "Visualize" button to start the sorting process.
